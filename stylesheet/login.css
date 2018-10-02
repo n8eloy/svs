@@ -1,0 +1,59 @@
+.login_body {
+    background: url(../image/gray.png) left top/cover fixed, url(../image/dog.png) no-repeat left top/100vh fixed;
+}
+
+.login_container {
+    margin: 5% auto 0;
+}
+
+.login_logo {
+    display: block;
+    margin: 0 auto 5% auto;
+    width: 25%;
+    min-width: 80pt;
+}
+
+.login_outter_frame {
+    background: #2ECC71;
+    border-radius: 5pt;
+    padding: 5pt 0;
+}
+
+.login_frame {
+    background: #FFF;
+    overflow: auto;
+}
+
+.login_form {
+    padding: 10pt 10pt;
+    box-shadow: 0 8pt 8pt -8pt #000 inset;
+}
+
+.login_input {
+    height: 2em;
+    margin: 20pt;
+}
+
+.login_icon {
+    font-size: 2em;
+    color: #BBB;
+    margin: 0 5pt 0 auto;
+}
+
+p.error {
+    padding: 10pt 0 0;
+    text-align: center;
+    color: #F00;
+}
+
+input[type=text], input[type=password] {
+    display: inline-block;
+    margin: 0 auto 0 5pt !important;
+    width: 60%;
+    height: 2em;
+    padding: 0 10pt;
+    border: 1pt solid #BBB;
+}
+
+
+
