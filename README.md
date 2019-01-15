@@ -1,5 +1,8 @@
 # svs
-UFSCar Sorocaba, Bacharelado em Ciência da Computação 2018/01
-Sistema Veterinário de Saúde - Projeto Integrado
+UFSCar Sorocaba, Computer Science - Integrated Project
 
-Desenvolvimento Web, Engenharia de Software 2 e Laboratório de Banco de Dados
+Web Development, Software Engineering 2, Database Lab
+
+- Nathan Eloy
+- Victor Watanabe
+- Vinicius Salinas
